@@ -1,7 +1,11 @@
 Hydrogen Pressure Controller
+
   Target MCU : ATmega328P (Arduino Nano)
+  
   Clock      : 16 MHz
+  
   Serial     : 19200 baud, 8N1
+  
   PWM        : Timer1 OC1A (D9), Fast PWM, 10 kHz
   Sensor     : I2C, address 0x20
 
